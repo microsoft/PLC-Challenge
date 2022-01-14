@@ -1,14 +1,11 @@
-# Project
+# INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository will contain data and example code for the INTERSPEECH 2022 Audio Deep 
+Packet Loss Concealment Challenge. The data will be released on January 19th, 2022.
 
-As the maintainer of this project, please make a few updates:
+You can find more information about the challenge and how to enter at https://aka.ms/plc_challenge
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+If you have any questions, please contact us via e-mail at plc_challenge@microsoft.com
 
 ## Contributing
 
