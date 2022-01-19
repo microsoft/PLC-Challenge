@@ -1,11 +1,24 @@
 # INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge
 
 This repository will contain data and example code for the INTERSPEECH 2022 Audio Deep 
-Packet Loss Concealment Challenge. The data will be released on January 19th, 2022.
+Packet Loss Concealment Challenge.
 
 You can find more information about the challenge and how to enter at https://aka.ms/plc_challenge
 
 If you have any questions, please contact us via e-mail at plc_challenge@microsoft.com
+
+## Dataset
+
+The training and validation dataset has now been released and is available as a tar.gz archive:
+
+[https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz](https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz)
+
+Additional information about the data included can be found in our challenge paper, and information about how to register for the challenge can be found at https://aka.ms/plc_challenge .
+
+## PLC-MOS
+
+To help with model development, we will provide access to a prototype PLC-MOS neural model API which will provide MOS score estimates for audio files with packet loss concealment applied.
+For further details on how to get access to this API, refer to https://aka.ms/plc_challenge .
 
 ## Contributing
 
