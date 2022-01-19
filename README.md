@@ -13,7 +13,7 @@ The training and validation dataset has now been released and is available as a 
 
 [https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz](https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz)
 
-Additional information about the data included can be found in our challenge paper, and information about how to register for the challenge can be found at https://aka.ms/plc_challenge .
+Additional information about the data included can be found in [our challenge paper](INTERSPEECH_2022_Deep_PLC_Challenge.pdf), and information about how to register for the challenge can be found at https://aka.ms/plc_challenge .
 
 ## PLC-MOS
 
