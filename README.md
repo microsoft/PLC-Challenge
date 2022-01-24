@@ -18,7 +18,7 @@ Additional information about the data included can be found in [our challenge pa
 ## PLC-MOS
 
 To help with model development, we will provide access to a prototype PLC-MOS neural model API which will provide MOS score estimates for audio files with packet loss concealment applied.
-For further details on how to get access to this API, refer to https://aka.ms/plc_challenge .
+For further details on how to get access to this API, refer to https://aka.ms/plc_challenge . You can find an API usage example in [PLC-MOS-API-Example.ipynb](PLC-MOS-API-Example.ipynb) .
 
 ## Contributing
 
