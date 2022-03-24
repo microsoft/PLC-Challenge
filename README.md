@@ -17,6 +17,10 @@ The blind set is now also available:
 
 [https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz](https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz)
 
+Update (24. March 2022): The reference data for the blind set is now available:
+
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind_set_reference.tar.gz
+
 Please make sure to submit your results by the deadline, March 8th 2022 23:59 AoE.
 
 Additional information about the data included can be found in [our challenge paper](INTERSPEECH_2022_Deep_PLC_Challenge.pdf), and information about how to register for the challenge can be found at https://aka.ms/plc_challenge .
