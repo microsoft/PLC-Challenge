@@ -11,15 +11,15 @@ If you have any questions, please contact us via e-mail at plc_challenge@microso
 
 The training and validation dataset has now been released and is available as a tar.gz archive:
 
-[https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz](https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz)
+[http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz](http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz)
 
 The blind set is now also available:
 
-[https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz](https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz)
+[http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz](http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz)
 
 Update (24. March 2022): The reference data for the blind set is now available:
 
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind_set_reference.tar.gz
+http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind_set_reference.tar.gz
 
 Please make sure to submit your results by the deadline, March 8th 2022 23:59 AoE.
 
