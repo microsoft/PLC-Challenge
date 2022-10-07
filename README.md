@@ -25,6 +25,25 @@ Please make sure to submit your results by the deadline, March 8th 2022 23:59 Ao
 
 Additional information about the data included can be found in [our challenge paper](INTERSPEECH_2022_Deep_PLC_Challenge.pdf), and information about how to register for the challenge can be found at https://aka.ms/plc_challenge .
 
+A multipart zip file download of the training set is available for people who cannot download it as one big file:
+
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.001
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.002
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.003
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.004
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.005
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.006
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.007
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.008
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.009
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.010
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.011
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.012
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.013
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.014
+https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.015
+
+
 ## PLC-MOS
 
 To help with model development, we will provide access to a prototype PLC-MOS neural model API which will provide MOS score estimates for audio files with packet loss concealment applied.
