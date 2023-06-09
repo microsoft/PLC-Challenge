@@ -21,9 +21,9 @@ Usage example (standalone):
 $ python plc_mos.py --degraded "example_wavs/*.wav"
 100%|████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:00<00:00,  6.29it/s]
            filename_degraded  plcmos_v2
-0     example_wavs\clean.wav   4.513107
-1  example_wavs\plc_good.wav   4.063874
-2  example_wavs\plc_poor.wav   2.818833
-3.7986046208275686
+0     example_wavs\clean.wav   4.497762
+1  example_wavs\plc_good.wav   4.123963
+2  example_wavs\plc_poor.wav   2.740757
+3.7874938382042784
 $
 ```

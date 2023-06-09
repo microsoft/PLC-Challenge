@@ -32,7 +32,7 @@ class PLCMOSEstimator():
             # ~0.97 PCC / ~0.95 SRCC / ~0.09 MAE on v2 test set
             "2-val": [(None, 0), ("models/plcmos_v2_val.onnx", 999999999999)],
 
-            # v2 model final run (all data - nothing held out), "great card", current default
+            # v2 model final run (all data - nothing held out), "lucid garden", current default
             # Not reporting metrics (invalid, since no holdout) but reasonable to assume as good as or better than v2-val
             "2": [(None, 0), ("models/plcmos_v2.onnx", 999999999999)],
         }
