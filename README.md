@@ -1,3 +1,14 @@
+# ICASSP 2024 Audio Deep Packet Loss Concealment Grand Challenge
+
+For the 2022 challenge, see below.
+
+Data downloads
+* The validation data for the 2024 edition of the challenge has now been released: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/plcchallenge24_val_v2.zip
+* A tool to check and validate processing latency can be found here: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/latency_test_v2.zip
+* The blind set has now been released, and can be found here: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/plc_challenge_2024_blind_release.zip
+
+We recommend using the recently released new version of PLCMOS, which is part of the speechmos · PyPI(opens in new tab) package, to aid with development.
+
 # INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge
 
 This repository will contain data and example code for the INTERSPEECH 2022 Audio Deep 
