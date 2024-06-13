@@ -9,6 +9,33 @@ Data downloads
 
 We recommend using the recently released new version of PLCMOS, which is part of the speechmos · PyPI(opens in new tab) package, to aid with development.
 
+## Citation
+If you use this dataset in a publication please cite the following paper:<br />
+
+```BibTex
+@inproceedings{diener2024icassp,
+  title        = {The ICASSP 2024 Audio Deep Packet Loss Concealment Grand Challenge},
+  author       = {Diener, Lorenz and Branets, Solomiya and Saabas, Ando and Cutler, Ross},
+  year         = 2024,
+  month        = apr,
+  booktitle    = {{ICASSP} 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing},
+  code         = {https://aka.ms/plc-challenge},
+}
+```
+
+The previous challenges are: 
+```BibTex
+@inproceedings{diener2022interspeech,
+  title        = {INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge},
+  author       = {Diener, Lorenz and Sootla, Sten and Branets, Solomiya and Saabas, Ando and Aichner, Robert and Cutler, Ross},
+  year         = 2022,
+  month        = sep,
+  booktitle    = {{INTERSPEECH} 2022 - 22nd Annual Conference of the International Speech Communication Association},
+  doi          = {10.21437/Interspeech.2022-10829},
+  code         = {https://aka.ms/plc-challenge},
+}
+```
+
 # INTERSPEECH 2022 Audio Deep Packet Loss Concealment Challenge
 
 This repository will contain data and example code for the INTERSPEECH 2022 Audio Deep 
