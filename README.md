@@ -3,9 +3,9 @@
 For the 2022 challenge, see below.
 
 Data downloads
-* The validation data for the 2024 edition of the challenge has now been released: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/plcchallenge24_val_v2.zip
-* A tool to check and validate processing latency can be found here: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/latency_test_v2.zip
-* The blind set has now been released, and can be found here: https://plcchallenge2024pub.blob.core.windows.net/plcchallengearchive/plc_challenge_2024_blind_release.zip
+* The validation data for the 2024 edition of the challenge has now been released: https://aecchallengepublic.blob.core.windows.net/plc2024/plcchallenge24_val_v2.zip
+* A tool to check and validate processing latency can be found here: https://aecchallengepublic.blob.core.windows.net/plc2024/latency_test_v2.zip
+* The blind set has now been released, and can be found here: https://aecchallengepublic.blob.core.windows.net/plc2024/plc_challenge_2024_blind_release.zip
 
 We recommend using the recently released new version of PLCMOS, which is part of the speechmos · PyPI(opens in new tab) package, to aid with development.
 
@@ -49,15 +49,15 @@ If you have any questions, please contact us via e-mail at plc_challenge@microso
 
 The training and validation dataset has now been released and is available as a tar.gz archive:
 
-[http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz](http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/test_train.tar.gz)
+https://aecchallengepublic.blob.core.windows.net/plc2022/test_train.tar.gz
 
 The blind set is now also available:
 
-[http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz](http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind.tar.gz)
+https://aecchallengepublic.blob.core.windows.net/plc2022/blind.tar.gz
 
 Update (24. March 2022): The reference data for the blind set is now available:
 
-http://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/blind_set_reference.tar.gz
+https://aecchallengepublic.blob.core.windows.net/plc2022/blind_set_reference.tar.gz
 
 Please make sure to submit your results by the deadline, March 8th 2022 23:59 AoE.
 
@@ -65,21 +65,21 @@ Additional information about the data included can be found in [our challenge pa
 
 A multipart zip file download of the training set is available for people who cannot download it as one big file:
 
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.001
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.002
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.003
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.004
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.005
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.006
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.007
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.008
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.009
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.010
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.011
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.012
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.013
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.014
-https://plcchallenge2022pub.blob.core.windows.net/plcchallengearchive/split/test_train.zip.015
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.001
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.002
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.003
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.004
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.005
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.006
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.007
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.008
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.009
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.010
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.011
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.012
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.013
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.014
+https://aecchallengepublic.blob.core.windows.net/plc2022/split/test_train.zip.015
 
 
 ## PLC-MOS
